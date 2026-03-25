@@ -8,7 +8,7 @@ import { HydrationFix } from "@/components/ui/HydrationFix";
 import Navbar from "@/components/ui/Navbar";
 
 export const metadata: Metadata = {
-  title: "Vansh K. | Portfolio",
+  title: "Vansh Shah | Portfolio",
   description: "Full Stack Developer",
   // ... other metadata you already have
 };
